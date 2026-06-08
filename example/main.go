@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println("=== Rate Limiter Package Examples ===\n")
+	fmt.Println("=== Rate Limiter Package Examples ===")
 
 	exampleBasicTokenBucket()
 	exampleInMemoryLimiter()
